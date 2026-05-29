@@ -1,1 +1,2 @@
-echo "Hello this is a demofile content"
+echo "Hello this is a demo file content"
+This is a demo project
